@@ -9,7 +9,7 @@ let etapaAtual = 0;
 let numeroClique = " ";
 
 function comecarEtapa() {
-  let etapa = etapas[etapaAtual];
+  let etapa = etapas[etapaAtual];//indice do objeto
 
   let numerosHtml = "";
 
@@ -29,7 +29,8 @@ function comecarEtapa() {
   numeros.innerHTML = numerosHtml;
 }
 function atualizaInterface() {
-  alert("finalizou");
+  console.log('finalizou')
+ console.log(numeroClique)
 }
 
 function clicou(n) {
