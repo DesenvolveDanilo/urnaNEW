@@ -21,7 +21,7 @@ function comecarEtapa() {
     }
   }
 
-  seuVotoPara.style.display = "none";
+  seuVotoPara.style.display =  "none";
   cargo.innerHTML = etapa.titulo;
   descricao.innerHTML = "";
   aviso.style.display = "none";
@@ -56,3 +56,4 @@ function confirma() {
 }
 
 comecarEtapa()
+//comentario
