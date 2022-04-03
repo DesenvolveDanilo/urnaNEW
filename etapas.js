@@ -2,26 +2,26 @@ let etapas = [
   {
     titulo: "VEREADOR",
     numeros: 5,
-    canditados: [
+    candidatos: [
       {
-        numero: 38897,
+        numero: '38897',
         nome: "funaldo de coisa",
         partido: "não podemos",
         fotos: [
           {
-            url: "https://i.pinimg.com/originals/b4/e3/80/b4e380db4a55647a322df8761ed0e519.jpg",
+            url: "images/ronaldo-pref.jpg",
             legenda: "vereador",
             small: false,
           },
         ],
       },
       {
-        numero: 38897,
+        numero: '88855',
         nome: "funaldo de hoje",
         partido: "talvez podemos",
         fotos: [
           {
-            url: "https://i.pinimg.com/originals/b4/e3/80/b4e380db4a55647a322df8761ed0e519.jpg",
+            url: "images/messi-vice.jpg",
             legenda: "vereador",
             small: false,
           },
@@ -32,9 +32,9 @@ let etapas = [
   {
     titulo: "PREFEITO",
     numeros: 2,
-    canditados: [
+    candidatos: [
       {
-        numero: 12,
+        numero: '12',
         nome: "Robnisto",
         partido: "robamos",
         vice: "cic",
@@ -44,7 +44,7 @@ let etapas = [
         ],
       },
       {
-        numero: 12,
+        numero: '19',
         nome: "alfanado",
         partido: "deitamos",
         vice: "lindo",
