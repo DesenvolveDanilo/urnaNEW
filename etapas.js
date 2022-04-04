@@ -39,8 +39,8 @@ let etapas = [
         partido: "robamos",
         vice: "cic",
         fotos: [
-          { url: "...", legenda: "Prefeito" },
-          { url: "...", legenda: "Vice-Prefeito", small: true },
+          { url: "images/ibra.jpg", legenda: "Prefeito" },
+          { url: "images/cassio.jpg", legenda: "Vice-Prefeito", small: true },
         ],
       },
       {
